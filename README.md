@@ -14,18 +14,6 @@ With a team, I am helping to create a sheet music editing application for deskto
 
 As a side project, I am creating a mobile application for Android called Practice Tracker.  It's role is to help track the users' progress in a chosen habit, such as practicing an instrument or exercising.  It does this by utilizing a streak-keeping system, like the one Duolingo uses to help motivate their users.  The project is currently in it's early Alpha testing stage.  Google Play Store publishment pending.
 
-## 💬 Ask me about
-
-### My projects
-
-I love to talk about the things I'm working on and the technologies I'm digging into.
-
-### Your projects
-
-I am very interested in the things others are building and how they are approaching their unique problems.
-
-### Anything else!
-
 ## 📫 How to reach me
 
 Email me or find me on LinkedIn!  I try to respond to messages within 2 days.
