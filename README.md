@@ -12,8 +12,9 @@ With a team, I am helping to create a sheet music editing application for deskto
 
 ### Practice Tracker - Mobile App to Improve Habits!  <img src="https://github.com/Matthew-w56/matthew-w56/assets/26423158/9f94b4d4-8d70-4fd4-8474-a62bc3837908" width="26px" style="margin-top: 20px" />
 
-As a side project, I am creating a mobile application for Android called Practice Tracker.  It's role is to help track the users' progress in a chosen habit, such as practicing an instrument or exercising.  It does this by utilizing a streak-keeping system, like the one Duolingo uses to help motivate their users.  The project is currently in it's early Alpha testing, with publishing to the Google App Store pending.
+As a side project, I am creating a mobile application for Android called Practice Tracker.  It's role is to help track the users' progress in a chosen habit, such as practicing an instrument or exercising.  It does this by utilizing a streak-keeping system, like the one Duolingo uses to help motivate their users.  The project is currently in it's early Alpha testing stage.  Google Play Store publishment pending.
 
+## 
 <!--
 **Matthew-w56/matthew-w56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
