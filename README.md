@@ -8,7 +8,7 @@ I am working as a Back-End Developer Intern at FamilySearch.  I am helping to so
 
 ### Arrange - Sheet Music Editor with an Innovative Creation Engine  <img src="https://github.com/Matthew-w56/matthew-w56/assets/26423158/4048c9b6-cd2c-4b9a-add0-561eda20ff53" width="26px" style="margin-top: 20px" />
 
-With a team, I am helping to create a sheet music editing application for desktop called Arrange.  I help direct the team's vision, am the lead developer of the Creation Engine itself, and assist in the front-end development of our website.
+With a team, I am helping to create a sheet music editing application for desktop called Arrange.  I help direct the team's vision, am the lead developer of the Creation Engine itself, and assist in the front-end development of our website. See our website at https://arrangecapstone.web.app
 
 ### Practice Tracker - Mobile App to Improve Habits  <img src="https://github.com/Matthew-w56/matthew-w56/assets/26423158/9f94b4d4-8d70-4fd4-8474-a62bc3837908" width="26px" style="margin-top: 20px" />
 
