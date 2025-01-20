@@ -2,9 +2,9 @@
 
 ## 🔭 I'm currently working on
 
-### Internship at FamilySearch  <img src="https://github.com/Matthew-w56/matthew-w56/assets/26423158/8a6b47a9-643b-4ed2-b844-3db27c47fb0e" width="30px" style="margin-top: 20px" />
+### Full-Stack Software Engineer @ Lucid Software  ![licon](https://github.com/user-attachments/assets/51e0ae54-ce3b-471a-a92c-bee6b35da9e8)
 
-I am working as a Back-End Developer Intern at FamilySearch.  I am helping to solve problems, and migrate our repositories to more modern technologies!
+I am working full-time at Lucid Software, helping to develop and ship exciting new capabilities for the Lucid Visual Collaboration Suite!
 
 ### Arrange - Sheet Music Editor with an Innovative Creation Engine  <img src="https://github.com/Matthew-w56/matthew-w56/assets/26423158/4048c9b6-cd2c-4b9a-add0-561eda20ff53" width="26px" style="margin-top: 20px" />
 
