@@ -2,7 +2,7 @@
 
 ## 🔭 I'm currently working on
 
-### Full-Stack Software Engineer @ Lucid Software  ![licon](https://github.com/user-attachments/assets/51e0ae54-ce3b-471a-a92c-bee6b35da9e8)
+### Full-Stack Software Engineer @ Lucid Software  <img src="https://github.com/user-attachments/assets/51e0ae54-ce3b-471a-a92c-bee6b35da9e8" width="26px" style="margin-top: 20px" />
 
 I am working full-time at Lucid Software, helping to develop and ship exciting new capabilities for the Lucid Visual Collaboration Suite!
 
