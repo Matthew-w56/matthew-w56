@@ -6,9 +6,9 @@
 
 I am working full-time at Lucid Software, helping to develop and ship exciting new capabilities for the Lucid Visual Collaboration Suite!
 
-### Arrange - Sheet Music Editor with an Innovative Creation Engine  <img src="https://github.com/Matthew-w56/matthew-w56/assets/26423158/4048c9b6-cd2c-4b9a-add0-561eda20ff53" width="26px" style="margin-top: 20px" />
+### TapNote - Translate rhythm into musical notation   <img src="https://github.com/user-attachments/assets/cc93f264-d3dd-4c09-8120-8e745cb4a577" width="26px" style="margin-top: 20px" />
 
-With a team, I am helping to create a sheet music editing application for desktop called Arrange.  I help direct the team's vision, am the lead developer of the Creation Engine itself, and assist in the front-end development of our website. See our website at https://arrangecapstone.web.app
+TapNote is a utility for musicians that are composing or arranging music.  It allows them to tap along to a rhythm, and see the musical notation generated for them!  Built from scratch with Angular, DynamoDB, and AWS Lambda, TapNote supplies users who log in with free cloud storage for their recordings, and has a number of options to fine tune the generated notes to what you want.
 
 ### Practice Tracker - Mobile App to Improve Habits  <img src="https://github.com/Matthew-w56/matthew-w56/assets/26423158/9f94b4d4-8d70-4fd4-8474-a62bc3837908" width="26px" style="margin-top: 20px" />
 
